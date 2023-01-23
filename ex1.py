@@ -1,3 +1,3 @@
 print('hello'.upper())
-s='hellloo word'
+s='helllooo word'
 print(s.find('e'))
